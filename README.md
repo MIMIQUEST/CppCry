@@ -1,3 +1,2 @@
-# Crypto
-Ruby中的AES256加密
+# Nihao
 这就是实践，并不总是正确的。
